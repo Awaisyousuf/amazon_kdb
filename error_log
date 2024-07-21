@@ -1,0 +1,30 @@
+[07-Aug-2023 23:09:22 UTC] PHP Warning:  require(/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ggtsssjx/public_html/amazon_kdp/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:25 UTC] PHP Warning:  require(/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ggtsssjx/public_html/amazon_kdp/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:28 UTC] PHP Warning:  require(/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ggtsssjx/public_html/amazon_kdp/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:29 UTC] PHP Warning:  require(/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ggtsssjx/public_html/amazon_kdp/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:30 UTC] PHP Warning:  require(/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ggtsssjx/public_html/amazon_kdp/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:32 UTC] PHP Warning:  require(/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
+[07-Aug-2023 23:09:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ggtsssjx/public_html/amazon_kdp/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ggtsssjx/public_html/amazon_kdp/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ggtsssjx/public_html/amazon_kdp/index.php on line 34
